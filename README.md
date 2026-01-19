@@ -46,6 +46,6 @@ This project demonstrates practical application of data analysis, data modeling,
 🌸 Hey, I'm Sarada Behera.
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
-💼 LinkedIn: [Sarada Behera](www.linkedin.com/in/sarada-behera13)
+💼 LinkedIn: [Sarada Behera](https://www.linkedin.com/in/sarada-behera13)
 
 📫 Email: beherasarada13@gmail.com
