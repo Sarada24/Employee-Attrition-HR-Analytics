@@ -1,4 +1,4 @@
-# 👨🏻‍💻Employee-Attrition-HR-Analytics
+# 👨🏻‍💻Employee-Attrition-HR-Analytics-DashBoard
 The Employee Attrition & HR Analytics Dashboard is a data analytics project designed to analyze employee attrition patterns and workforce dynamics. The dashboard helps HR teams and business stakeholders understand key factors influencing attrition and supports data-driven decision-making to improve employee retention.
 This project demonstrates practical application of data analysis, data modeling, and interactive dashboard development using Power BI.
 
